@@ -19,10 +19,14 @@
   "author": "Matt Ball",
   "license": "Apache-2.0",
   "dependencies": {
-    "@actions/core": "^1.0.0",
-    "newman": "^4.5.5"
+    "@actions/core": "^1.2.4",
+    "newman": "^5.0.0"
   },
   "devDependencies": {
-    "standard": "^14.0.2"
-  }
+    "standard": "^14.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/matt-ball/newman-action/issues"
+  },
+  "homepage": "https://github.com/matt-ball/newman-action#readme"
 }
