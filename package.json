@@ -23,6 +23,10 @@
     "newman": "^4.6.1"
   },
   "devDependencies": {
-    "standard": "^14.0.2"
-  }
+    "standard": "^14.3.3"
+  },
+  "bugs": {
+    "url": "https://github.com/matt-ball/newman-action/issues"
+  },
+  "homepage": "https://github.com/matt-ball/newman-action#readme"
 }
